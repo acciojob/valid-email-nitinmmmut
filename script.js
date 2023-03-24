@@ -1,4 +1,4 @@
-function validEmail(str) {
+// function validEmail(str) {
   //your JS code here.
 	function validEmail(inputText) {
   var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
